@@ -320,7 +320,7 @@ Even when a diagnostic tool is whitelisted and linked over encrypted BLE, static
 ---
 
 ## AI Assistant Disclosure
-In accordance with hackathon guidelines, artificial intelligence coding assistance (Antigravity by Google DeepMind) was utilized during development for code structuring, component implementation, deterministic test case authoring, and documentation refinement. All logic, test suites, and simulated security evaluations have been verified by Team DevCrew.
+In accordance with hackathon guidelines, artificial intelligence coding assistance (google Deep Mind,Chatgpt) was utilized during development for code structuring, component implementation, deterministic test case authoring, and documentation refinement. All logic, test suites, and simulated security evaluations have been verified by Team DevCrew.
 
 ---
 
